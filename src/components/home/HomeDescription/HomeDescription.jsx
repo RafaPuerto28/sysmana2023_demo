@@ -7,7 +7,7 @@ import {
   const HomeDescription = () => {
     return (
       <HomeDescriptionWrapper>
-        <Name>Hi! I am Jhon Doe</Name>
+        <Name>Hola Soy Rafael Puerto Nieto</Name>
         <StyledParagraph>
           Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facere autem,
           ab consequatur sed natus, aspernatur ullam qui ut doloremque
